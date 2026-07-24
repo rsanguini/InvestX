@@ -246,3 +246,343 @@ Designed with a professional trading-terminal aesthetic featuring:
 ---
 
 > **Designed as a portfolio project today. Built to become a real product tomorrow.**
+
+# Architecture
+
+InvestX follows a modular architecture that separates the application into independent layers, making the project easier to maintain, scale and evolve into a complete Full-Stack platform.
+
+```text
+                                User
+                                  │
+                                  ▼
+                         HTML / CSS / JavaScript
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          │                       │                       │
+          ▼                       ▼                       ▼
+    Authentication         Dashboard UI           Omega AI Chat
+          │                       │                       │
+          └───────────────┬───────┴───────────────┬───────┘
+                          │                       │
+                          ▼                       ▼
+                   Market Module          Trading Simulator
+                          │
+                          ▼
+                Yahoo Finance API
+                          │
+                          ▼
+                 Serverless Functions
+                          │
+                          ▼
+                      Groq AI API
+```
+
+The architecture was intentionally designed to remain modular and framework-independent while supporting future backend services and database integration.
+
+---
+
+# Project Structure
+
+```text
+InvestX
+│
+├── api/
+│   ├── chat.js                 # Serverless AI endpoint
+│   └── market.js               # Market API proxy
+│
+├── CSS/
+│   ├── auth.css
+│   ├── home.css
+│   ├── login.css
+│   ├── profile.css
+│   ├── register.css
+│   └── style.css
+│
+├── HTML/
+│   ├── Home.html
+│   ├── index.html
+│   ├── login.html
+│   └── register.html
+│
+├── Images/
+│   ├── logo.png
+│   ├── grafico.webp
+│   ├── robo.png
+│   ├── camera.png
+│   └── ...
+│
+├── JS/
+│   ├── app.js
+│   ├── auth.js
+│   ├── chart.js
+│   ├── chat.js
+│   ├── config.js
+│   ├── home.js
+│   ├── index.js
+│   ├── login.js
+│   ├── market.js
+│   ├── perfil.js
+│   ├── trading.js
+│   └── ui.js
+│
+├── vercel.json
+│
+├── LICENSE
+│
+└── README.md
+```
+
+---
+
+# Technology Stack
+
+## Frontend
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## APIs
+
+- Yahoo Finance API
+- Groq AI API
+
+## Deployment
+
+- Vercel
+
+## Storage
+
+- LocalStorage
+
+## Charts
+
+- Canvas API
+
+---
+
+# Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/rsanguini/InvestX.git
+```
+
+Enter the project folder:
+
+```bash
+cd InvestX
+```
+
+---
+
+## Run Locally
+
+Since the project uses Vanilla JavaScript, no build process is required.
+
+You can use any local web server.
+
+### Option 1 — Live Server (Recommended)
+
+Open the project using the **Live Server** extension in Visual Studio Code.
+
+---
+
+### Option 2 — Python
+
+```bash
+python -m http.server 8080
+```
+
+or
+
+```bash
+python3 -m http.server 8080
+```
+
+---
+
+### Option 3 — Node.js
+
+```bash
+npx serve .
+```
+
+---
+
+Open your browser:
+
+```text
+http://localhost:8080/HTML/Home.html
+```
+
+---
+
+# Demo Account
+
+You can explore the platform without creating an account.
+
+```text
+Email
+demo@investx.com
+
+Password
+demo123
+```
+
+The demo account includes:
+
+- Sample portfolio
+- Trading history
+- Price alerts
+- Dashboard access
+- Omega AI integration
+
+---
+
+# Deployment
+
+InvestX is fully compatible with **Vercel**.
+
+Deploy in minutes:
+
+```bash
+npm install -g vercel
+```
+
+Login:
+
+```bash
+vercel login
+```
+
+Deploy:
+
+```bash
+vercel
+```
+
+Production:
+
+```bash
+vercel --prod
+```
+
+---
+
+# Environment Variables
+
+To enable Omega AI, create the following environment variable:
+
+```env
+GROQ_API_KEY=your_api_key
+```
+
+Configure it inside the Vercel Dashboard under:
+
+```text
+Project Settings
+
+↓
+
+Environment Variables
+```
+
+---
+
+# APIs
+
+## Yahoo Finance
+
+Used for:
+
+- Real-time stock prices
+- Cryptocurrency prices
+- Market indexes
+- Price variation
+- Portfolio updates
+
+---
+
+## Groq API
+
+Used to power **Omega AI**.
+
+The assistant is capable of understanding:
+
+- Stocks
+- ETFs
+- FIIs
+- Cryptocurrencies
+- Fixed income
+- Technical analysis
+- Fundamental analysis
+- Portfolio diversification
+- Market news
+
+---
+
+# Omega AI
+
+Omega AI is the intelligent engine behind InvestX.
+
+Instead of acting like a generic chatbot, Omega AI is designed specifically for financial analysis.
+
+Current capabilities include:
+
+- Real-time market context
+- Technical indicators
+- Fundamental analysis
+- Investment explanations
+- Economic scenario interpretation
+- Personalized responses
+- Portfolio insights
+- Investment education
+
+Future versions will include:
+
+- Long-term memory
+- Portfolio recommendations
+- Watchlists
+- News analysis
+- Voice interaction
+- Multi-agent architecture
+
+---
+
+# Performance
+
+The project was designed with performance as a priority.
+
+### Highlights
+
+- No frontend framework
+- No unnecessary dependencies
+- Lightweight assets
+- Fast loading
+- Modular architecture
+- Responsive interface
+- Serverless backend
+- Easy deployment
+
+---
+
+# Security
+
+Current security features include:
+
+- Secure API proxy
+- Hidden API keys
+- Local authentication
+- User session management
+- Input validation
+- Protected serverless endpoints
+
+Future versions will include:
+
+- JWT Authentication
+- Database encryption
+- OAuth login
+- Two-Factor Authentication
+- Cloud database

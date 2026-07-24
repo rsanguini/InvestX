@@ -586,3 +586,206 @@ Future versions will include:
 - OAuth login
 - Two-Factor Authentication
 - Cloud database
+
+---
+
+# Roadmap
+
+InvestX is under continuous development.
+
+The long-term goal is to evolve the platform into a complete **AI-powered investment ecosystem**.
+
+## Completed
+
+- Responsive Landing Page
+- Authentication System
+- Portfolio Dashboard
+- Trading Simulator
+- Real-Time Market Data
+- Omega AI Integration
+- Technical Analysis
+- Fundamental Analysis
+- Investment Alerts
+- Serverless Deployment
+
+---
+
+## In Progress
+
+- Backend Architecture
+- User Database
+- API Refactoring
+- Performance Optimization
+- Better State Management
+- Improved Mobile Experience
+
+---
+
+## Planned Features
+
+### Authentication
+
+- JWT Authentication
+- OAuth Login (Google / GitHub)
+- Two-Factor Authentication
+
+### Portfolio
+
+- Persistent Cloud Portfolio
+- Portfolio Performance Reports
+- Dividend Tracking
+- Asset Allocation Analysis
+
+### Trading
+
+- Watchlists
+- Advanced Order Types
+- Risk Management Tools
+- Position Sizing Calculator
+
+### AI
+
+- AI Portfolio Review
+- AI Risk Assessment
+- Investment Recommendations
+- News Summarization
+- Voice Assistant
+- Long-Term Memory
+- Multi-Agent Architecture
+
+### Market
+
+- Official B3 API
+- Economic Calendar
+- Market News Feed
+- ETF Database
+- International Markets
+- Commodities
+- Forex
+
+### Infrastructure
+
+- Node.js Backend
+- PostgreSQL Database
+- Docker Support
+- CI/CD Pipeline
+- Automated Testing
+- Monitoring
+- Logging
+
+---
+
+# Project Vision
+
+InvestX is much more than a dashboard.
+
+The vision is to build an intelligent financial platform capable of assisting investors throughout their entire investment journey.
+
+The platform is being designed with scalability in mind, allowing future integration with cloud databases, authentication providers, AI services, broker APIs, and advanced portfolio analytics.
+
+Every feature added today is planned with the future Full-Stack architecture in mind.
+
+---
+
+# Why Vanilla JavaScript?
+
+Instead of relying on frontend frameworks, InvestX was intentionally developed using **Vanilla JavaScript**.
+
+This decision highlights:
+
+- Strong JavaScript fundamentals
+- Modular architecture
+- Performance optimization
+- Deep understanding of browser APIs
+- Clean dependency management
+
+The goal is to demonstrate that scalable applications can be built without unnecessary complexity while keeping the project easy to understand and maintain.
+
+---
+
+# Contributing
+
+Contributions are always welcome.
+
+If you would like to improve InvestX, feel free to:
+
+1. Fork the repository
+2. Create a feature branch
+
+```bash
+git checkout -b feature/amazing-feature
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "feat: add amazing feature"
+```
+
+4. Push your branch
+
+```bash
+git push origin feature/amazing-feature
+```
+
+5. Open a Pull Request
+
+Please make sure your code follows the existing project structure and coding style.
+
+---
+
+# Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+It helps the project gain visibility and motivates future development.
+
+---
+
+# License
+
+This project is distributed under the **MIT License**.
+
+See the **LICENSE** file for more information.
+
+---
+
+# Author
+
+<div align="center">
+
+## Rafael Sanguini Colagrossi
+
+Software Developer passionate about Artificial Intelligence, Financial Technology and Full-Stack Development.
+
+Building modern software focused on performance, clean architecture and great user experience.
+
+<br>
+
+<a href="https://github.com/rsanguini">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/rafaelsanguini">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:rafaelcolagrossi@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## InvestX
+
+### AI-Powered Investing for Everyone.
+
+Building the future of intelligent investing, one commit at a time.
+
+⭐ **If you like this project, don't forget to star the repository!**
+
+</div>

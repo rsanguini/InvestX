@@ -1,6 +1,4 @@
-<div align="center">
-
-# InvestX
+<h1 align="center"> InvestX </h1>
 
 ### AI-Powered Investment Platform for Modern Investors
 
@@ -51,7 +49,8 @@ Real-time market data • AI-powered financial analysis • Portfolio management
 ## Landing Page
 
 <p align="center">
-<img src="./assets/landing.png" width="100%">
+<img width="1856" height="946" alt="Landing page - InvestX" src="https://github.com/user-attachments/assets/8c1577f6-e6ca-44bc-8468-09aa9726c8ee" />
+
 </p>
 
 ---
@@ -59,7 +58,8 @@ Real-time market data • AI-powered financial analysis • Portfolio management
 ## Dashboard
 
 <p align="center">
-<img src="./assets/dashboard.png" width="100%">
+<img width="1867" height="951" alt="dashboard page" src="https://github.com/user-attachments/assets/2d704230-c1e2-484b-8c34-474d598e916f" />
+
 </p>
 
 ---
@@ -67,7 +67,7 @@ Real-time market data • AI-powered financial analysis • Portfolio management
 ## Omega AI Assistant
 
 <p align="center">
-<img src="./assets/omega-ai.png" width="100%">
+<img width="415" height="678" alt="OMega IA - InvestX" src="https://github.com/user-attachments/assets/3b0d2426-0efa-4af4-a932-c9ca2b6931dd" />
 </p>
 
 ---

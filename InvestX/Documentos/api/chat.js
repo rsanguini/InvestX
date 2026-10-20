@@ -43,7 +43,7 @@ export default async function handler(req, res) {
         'Authorization': `Bearer ${apiKey}`,
       },
       body: JSON.stringify({
-        model:       'llama-3.3-70b-versatile',
+        model:       process.env.GROQ_MODEL || 'openai/gpt-oss-20b',
         max_tokens,
         temperature,
         messages:    groqMessages,

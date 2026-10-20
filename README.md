@@ -1,23 +1,23 @@
-<h1 align="center"> InvestX </h1>
+ <h1 align="center"> InvestX </h1>
 
-### AI-Powered Investment Platform for Modern Investors
+### Plataforma de Investimentos com Inteligência Artificial para Investidores Modernos
 
 <p align="center">
-Real-time market data • AI-powered financial analysis • Portfolio management • Trading simulation • Built with Vanilla JavaScript
+Dados de mercado em tempo real • Análise financeira com IA • Gestão de carteira • Simulação de operações • Desenvolvido com JavaScript puro
 </p>
 
 <p align="center">
 
 <a href="https://investx-black.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-Visit_Website-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Demo_Ao_Vivo-Visitar_Site-red?style=for-the-badge">
 </a>
 
 <a href="../../issues">
-<img src="https://img.shields.io/badge/Report-Bug-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Reportar-Bug-black?style=for-the-badge">
 </a>
 
 <a href="../../issues">
-<img src="https://img.shields.io/badge/Request-Feature-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sugerir-Funcionalidade-red?style=for-the-badge">
 </a>
 
 </p>
@@ -30,13 +30,13 @@ Real-time market data • AI-powered financial analysis • Portfolio management
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
-<img src="https://img.shields.io/badge/Groq-AI-black?style=flat-square">
+<img src="https://img.shields.io/badge/Groq-IA-black?style=flat-square">
 
 <img src="https://img.shields.io/badge/Yahoo-Finance-purple?style=flat-square">
 
 <img src="https://img.shields.io/badge/Vercel-Deploy-black?style=flat-square&logo=vercel">
 
-<img src="https://img.shields.io/badge/License-MIT-red?style=flat-square">
+<img src="https://img.shields.io/badge/Licen%C3%A7a-MIT-red?style=flat-square">
 
 </p>
 
@@ -44,251 +44,236 @@ Real-time market data • AI-powered financial analysis • Portfolio management
 
 ---
 
-# Preview
+# Prévia do projeto
 
-## Landing Page
+## Página inicial
 
 <p align="center">
-<img width="1856" height="946" alt="Landing page - InvestX" src="https://github.com/user-attachments/assets/8c1577f6-e6ca-44bc-8468-09aa9726c8ee" />
-
+<img width="1856" height="946" alt="Página inicial da InvestX" src="https://github.com/user-attachments/assets/8c1577f6-e6ca-44bc-8468-09aa9726c8ee" />
 </p>
 
 ---
 
-## Dashboard
+## Painel principal
 
 <p align="center">
-<img width="1867" height="951" alt="dashboard page" src="https://github.com/user-attachments/assets/2d704230-c1e2-484b-8c34-474d598e916f" />
-
+<img width="1867" height="951" alt="Painel principal da InvestX" src="https://github.com/user-attachments/assets/2d704230-c1e2-484b-8c34-474d598e916f" />
 </p>
 
 ---
 
-## Omega AI Assistant
+## Assistente Omega AI
 
 <p align="center">
-<img width="415" height="678" alt="OMega IA - InvestX" src="https://github.com/user-attachments/assets/3b0d2426-0efa-4af4-a932-c9ca2b6931dd" />
+<img width="415" height="678" alt="Assistente Omega AI da InvestX" src="https://github.com/user-attachments/assets/3b0d2426-0efa-4af4-a932-c9ca2b6931dd" />
 </p>
 
 ---
 
-# About
+# Sobre o projeto
 
-**InvestX** is a modern investment platform currently under active development, designed to combine real-time financial data with artificial intelligence to help investors make better decisions.
+**InvestX** é uma plataforma moderna de investimentos, atualmente em desenvolvimento ativo, projetada para combinar dados financeiros em tempo real com inteligência artificial, ajudando investidores a tomar decisões mais bem informadas.
 
-The long-term vision is to transform InvestX into a complete **Full-Stack FinTech ecosystem**, providing portfolio management, technical analysis, market intelligence, investment simulations, and an AI-powered financial assistant capable of understanding both market conditions and user profiles.
+A visão de longo prazo é transformar a InvestX em um ecossistema **FinTech Full-Stack** completo, oferecendo gestão de carteira, análise técnica, inteligência de mercado, simulações de investimentos e um assistente financeiro com IA capaz de compreender tanto as condições do mercado quanto os perfis dos usuários.
 
-Unlike many educational projects, InvestX was intentionally built without frontend frameworks. The application demonstrates how a scalable and modular architecture can be achieved using only **HTML, CSS and Vanilla JavaScript**, while integrating external APIs and serverless functions.
+Diferentemente de muitos projetos educacionais, a InvestX foi desenvolvida intencionalmente sem frameworks de front-end. A aplicação demonstra como construir uma arquitetura escalável e modular utilizando apenas **HTML, CSS e JavaScript puro**, com integração a APIs externas e funções serverless.
 
-The project is continuously evolving with new features, backend services and infrastructure improvements.
-
----
-
-# Why InvestX?
-
-The objective of this project goes beyond creating another investment dashboard.
-
-InvestX was built to demonstrate practical software engineering skills, including:
-
-- Clean architecture
-- Modular JavaScript
-- API integration
-- Financial data processing
-- Responsive UI/UX
-- AI integration
-- Authentication
-- Trading simulations
-- Deploy automation
-- Scalability
-
-The project also serves as the foundation for a future commercial platform.
+O projeto evolui continuamente, recebendo novas funcionalidades, serviços de back-end e melhorias de infraestrutura.
 
 ---
 
-# Key Features
+# Por que a InvestX?
 
-### Real-Time Market Data
+O objetivo deste projeto vai além de criar mais um painel de investimentos.
 
-- Live stock prices
-- Cryptocurrency quotes
-- Market indexes
-- Automatic refresh
-- Yahoo Finance integration
+A InvestX foi desenvolvida para demonstrar habilidades práticas de engenharia de software, incluindo:
+
+- Arquitetura limpa
+- JavaScript modular
+- Integração com APIs
+- Processamento de dados financeiros
+- Interface e experiência do usuário responsivas (UI/UX)
+- Integração com inteligência artificial
+- Autenticação
+- Simulação de operações de investimento
+- Automação de implantação
+- Escalabilidade
+
+O projeto também serve como base para uma futura plataforma comercial.
+
+---
+
+# Principais funcionalidades
+
+### Dados de mercado em tempo real
+
+- Cotações de ações em tempo real
+- Cotações de criptomoedas
+- Índices de mercado
+- Atualização automática
+- Integração com o Yahoo Finance
 
 ---
 
 ### Omega AI
 
-A conversational AI specialized in financial analysis capable of assisting users with:
+Uma inteligência artificial conversacional especializada em análise financeira, capaz de auxiliar os usuários com:
 
-- Brazilian stocks
-- ETFs
-- REITs (FIIs)
-- Cryptocurrencies
-- Fixed income
-- Technical analysis
-- Fundamental analysis
-- Portfolio diversification
-- Macroeconomic scenarios
+- Ações brasileiras
+- ETFs (fundos de índice)
+- FIIs (fundos de investimento imobiliário)
+- Criptomoedas
+- Renda fixa
+- Análise técnica
+- Análise fundamentalista
+- Diversificação de carteira
+- Cenários macroeconômicos
 
-Powered by **Groq AI** with real-time market context.
-
----
-
-### Portfolio Management
-
-Manage your investments through an interactive dashboard.
-
-Features include:
-
-- Asset registration
-- Average price calculation
-- Portfolio allocation
-- Profit & loss analysis
-- Performance tracking
-- AI investment score
+Desenvolvida com **Groq AI** e contexto de mercado em tempo real.
 
 ---
 
-### Trading Simulator
+### Gestão de carteira
 
-Practice investment strategies without risking real money.
+Gerencie seus investimentos por meio de um painel interativo.
 
-Includes:
+Funcionalidades incluídas:
 
-- Market Orders
-- Limit Orders
-- Stop Orders
-- Stop Gain
-- DCA Simulator
-- Compound Interest Calculator
-- AI-generated investment commentary
-
----
-
-### Intelligent Alerts
-
-Create custom alerts for your favorite assets.
-
-Receive notifications whenever a target price is reached.
+- Cadastro de ativos
+- Cálculo do preço médio
+- Distribuição da carteira
+- Análise de lucros e prejuízos
+- Acompanhamento de desempenho
+- Pontuação de investimentos gerada por IA
 
 ---
 
-### Authentication
+### Simulador de operações
 
-- User registration
-- Login system
-- Demo account
-- Local persistence
-- Profile customization
+Pratique estratégias de investimento sem arriscar dinheiro real.
 
----
+Inclui:
 
-### Responsive Interface
-
-Designed with a professional trading-terminal aesthetic featuring:
-
-- Dark mode interface
-- Responsive layout
-- Animated components
-- Live dashboard
-- Modern typography
+- Ordens a mercado (*Market Orders*)
+- Ordens limitadas (*Limit Orders*)
+- Ordens stop (*Stop Orders*)
+- Stop gain
+- Simulador de aportes periódicos (DCA)
+- Calculadora de juros compostos
+- Comentários sobre investimentos gerados por IA
 
 ---
 
-# Tech Stack
+### Alertas inteligentes
 
-| Category | Technologies |
-|-----------|--------------|
-| Frontend | HTML5 |
-| Styling | CSS3 |
-| Programming Language | Vanilla JavaScript |
-| Charts | Canvas API |
-| Artificial Intelligence | Groq API |
-| Market Data | Yahoo Finance API |
-| Storage | LocalStorage |
-| Authentication | Custom Authentication |
-| Deployment | Vercel |
-| Version Control | Git & GitHub |
+Crie alertas personalizados para seus ativos favoritos.
+
+Receba notificações sempre que um preço-alvo definido for atingido.
 
 ---
 
-# Project Highlights
+### Autenticação
 
-✔ Modular Architecture
-
-✔ Vanilla JavaScript
-
-✔ Serverless API
-
-✔ Responsive Design
-
-✔ AI Integration
-
-✔ Real-Time Market Data
-
-✔ Trading Simulator
-
-✔ Portfolio Dashboard
-
-✔ Technical Analysis
-
-✔ Fundamental Analysis
-
-✔ Investment Alerts
-
-✔ Production Ready UI
-
-✔ Full Documentation
-
-✔ Future Full-Stack Architecture
+- Cadastro de usuários
+- Sistema de login
+- Conta de demonstração
+- Persistência local de dados
+- Personalização de perfil
 
 ---
 
-> **Designed as a portfolio project today. Built to become a real product tomorrow.**
+### Interface responsiva
 
-# Architecture
+Desenvolvida com uma aparência profissional inspirada em terminais de negociação, apresentando:
 
-InvestX follows a modular architecture that separates the application into independent layers, making the project easier to maintain, scale and evolve into a complete Full-Stack platform.
+- Interface em modo escuro
+- Layout responsivo
+- Componentes animados
+- Painel com dados atualizados
+- Tipografia moderna
+
+---
+
+# Tecnologias utilizadas
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| Front-end | HTML5 |
+| Estilização | CSS3 |
+| Linguagem de programação | JavaScript puro |
+| Gráficos | Canvas API |
+| Inteligência artificial | Groq API |
+| Dados de mercado | Yahoo Finance API |
+| Armazenamento | LocalStorage |
+| Autenticação | Sistema de autenticação próprio |
+| Implantação | Vercel |
+| Controle de versão | Git e GitHub |
+
+---
+
+# Destaques do projeto
+
+- Arquitetura modular
+- JavaScript puro
+- API serverless
+- Design responsivo
+- Integração com inteligência artificial
+- Dados de mercado em tempo real
+- Simulador de operações
+- Painel de carteira de investimentos
+- Análise técnica
+- Análise fundamentalista
+- Alertas de investimento
+- Interface com padrão de produção
+- Documentação completa
+- Arquitetura Full-Stack planejada para o futuro
+
+---
+
+> **Criado hoje como projeto de portfólio. Desenvolvido para se tornar um produto real amanhã.**
+
+# Arquitetura
+
+A InvestX segue uma arquitetura modular que separa a aplicação em camadas independentes, facilitando a manutenção, a escalabilidade e a evolução para uma plataforma Full-Stack completa.
 
 ```text
-                                User
+                                Usuário
                                   │
                                   ▼
-                         HTML / CSS / JavaScript
+                          HTML / CSS / JavaScript
                                   │
-          ┌───────────────────────┼───────────────────────┐
-          │                       │                       │
-          ▼                       ▼                       ▼
-    Authentication         Dashboard UI           Omega AI Chat
-          │                       │                       │
-          └───────────────┬───────┴───────────────┬───────┘
-                          │                       │
-                          ▼                       ▼
-                   Market Module          Trading Simulator
+           ┌───────────────────────┼───────────────────────┐
+           │                       │                       │
+           ▼                       ▼                       ▼
+      Autenticação          Interface do painel       Chat Omega AI
+           │                       │                       │
+           └───────────────┬───────┴───────────────┬───────┘
+                           │                       │
+                           ▼                       ▼
+                    Módulo de mercado       Simulador de operações
                           │
                           ▼
-                Yahoo Finance API
+                 Yahoo Finance API
                           │
                           ▼
-                 Serverless Functions
+                 Funções serverless
                           │
                           ▼
-                      Groq AI API
+                     Groq AI API
 ```
 
-The architecture was intentionally designed to remain modular and framework-independent while supporting future backend services and database integration.
+A arquitetura foi projetada intencionalmente para permanecer modular e independente de frameworks, permitindo a inclusão futura de serviços de back-end e integração com bancos de dados.
 
 ---
 
-# Project Structure
+# Estrutura do projeto
 
 ```text
 InvestX
 │
 ├── api/
-│   ├── chat.js                 # Serverless AI endpoint
-│   └── market.js               # Market API proxy
+│   ├── chat.js                 # Endpoint serverless para IA
+│   └── market.js               # Proxy para a API de mercado
 │
 ├── CSS/
 │   ├── auth.css
@@ -334,42 +319,42 @@ InvestX
 
 ---
 
-# Technology Stack
+# Tecnologias do projeto
 
-## Frontend
+## Front-end
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript puro (*Vanilla JavaScript*)
 
 ## APIs
 
 - Yahoo Finance API
 - Groq AI API
 
-## Deployment
+## Implantação
 
 - Vercel
 
-## Storage
+## Armazenamento
 
 - LocalStorage
 
-## Charts
+## Gráficos
 
 - Canvas API
 
 ---
 
-# Getting Started
+# Como começar
 
-Clone the repository:
+Clone o repositório:
 
 ```bash
 git clone https://github.com/rsanguini/InvestX.git
 ```
 
-Enter the project folder:
+Entre na pasta do projeto:
 
 ```bash
 cd InvestX
@@ -377,25 +362,25 @@ cd InvestX
 
 ---
 
-## Run Locally
+## Executar localmente
 
-Since the project uses Vanilla JavaScript, no build process is required.
+Como o projeto utiliza JavaScript puro, não é necessário executar um processo de build.
 
-You can use any local web server.
+Você pode utilizar qualquer servidor web local.
 
-### Option 1 — Live Server (Recommended)
+### Opção 1 — Live Server (recomendado)
 
-Open the project using the **Live Server** extension in Visual Studio Code.
+Abra o projeto utilizando a extensão **Live Server** no Visual Studio Code.
 
 ---
 
-### Option 2 — Python
+### Opção 2 — Python
 
 ```bash
 python -m http.server 8080
 ```
 
-or
+Ou:
 
 ```bash
 python3 -m http.server 8080
@@ -403,7 +388,7 @@ python3 -m http.server 8080
 
 ---
 
-### Option 3 — Node.js
+### Opção 3 — Node.js
 
 ```bash
 npx serve .
@@ -411,7 +396,7 @@ npx serve .
 
 ---
 
-Open your browser:
+Abra no navegador:
 
 ```text
 http://localhost:8080/HTML/Home.html
@@ -419,51 +404,51 @@ http://localhost:8080/HTML/Home.html
 
 ---
 
-# Demo Account
+# Conta de demonstração
 
-You can explore the platform without creating an account.
+Você pode explorar a plataforma sem criar uma conta.
 
 ```text
-Email
+E-mail
 demo@investx.com
 
-Password
+Senha
 demo123
 ```
 
-The demo account includes:
+A conta de demonstração inclui:
 
-- Sample portfolio
-- Trading history
-- Price alerts
-- Dashboard access
-- Omega AI integration
+- Carteira de exemplo
+- Histórico de operações
+- Alertas de preço
+- Acesso ao painel
+- Integração com a Omega AI
 
 ---
 
-# Deployment
+# Implantação
 
-InvestX is fully compatible with **Vercel**.
+A InvestX é compatível com a **Vercel**.
 
-Deploy in minutes:
+Faça a implantação em poucos minutos:
 
 ```bash
 npm install -g vercel
 ```
 
-Login:
+Faça login:
 
 ```bash
 vercel login
 ```
 
-Deploy:
+Implante o projeto:
 
 ```bash
 vercel
 ```
 
-Production:
+Implantação em produção:
 
 ```bash
 vercel --prod
@@ -471,22 +456,22 @@ vercel --prod
 
 ---
 
-# Environment Variables
+# Variáveis de ambiente
 
-To enable Omega AI, create the following environment variable:
+Para habilitar a Omega AI, crie a seguinte variável de ambiente:
 
 ```env
-GROQ_API_KEY=your_api_key
+GROQ_API_KEY=sua_chave_de_api
 ```
 
-Configure it inside the Vercel Dashboard under:
+Configure-a no painel da Vercel, em:
 
 ```text
-Project Settings
+Configurações do projeto
 
 ↓
 
-Environment Variables
+Variáveis de ambiente
 ```
 
 ---
@@ -495,270 +480,270 @@ Environment Variables
 
 ## Yahoo Finance
 
-Used for:
+Utilizada para obter:
 
-- Real-time stock prices
-- Cryptocurrency prices
-- Market indexes
-- Price variation
-- Portfolio updates
+- Cotações de ações em tempo real
+- Preços de criptomoedas
+- Índices de mercado
+- Variações de preço
+- Atualizações da carteira
 
 ---
 
 ## Groq API
 
-Used to power **Omega AI**.
+Utilizada para alimentar a **Omega AI**.
 
-The assistant is capable of understanding:
+O assistente é capaz de compreender e auxiliar em assuntos como:
 
-- Stocks
+- Ações
 - ETFs
 - FIIs
-- Cryptocurrencies
-- Fixed income
-- Technical analysis
-- Fundamental analysis
-- Portfolio diversification
-- Market news
+- Criptomoedas
+- Renda fixa
+- Análise técnica
+- Análise fundamentalista
+- Diversificação de carteira
+- Notícias do mercado
 
 ---
 
 # Omega AI
 
-Omega AI is the intelligent engine behind InvestX.
+A Omega AI é o mecanismo inteligente por trás da InvestX.
 
-Instead of acting like a generic chatbot, Omega AI is designed specifically for financial analysis.
+Em vez de atuar como um chatbot genérico, ela foi projetada especificamente para análise financeira.
 
-Current capabilities include:
+As funcionalidades atuais incluem:
 
-- Real-time market context
-- Technical indicators
-- Fundamental analysis
-- Investment explanations
-- Economic scenario interpretation
-- Personalized responses
-- Portfolio insights
-- Investment education
+- Contexto de mercado em tempo real
+- Indicadores técnicos
+- Análise fundamentalista
+- Explicações sobre investimentos
+- Interpretação de cenários econômicos
+- Respostas personalizadas
+- Análises da carteira
+- Educação financeira
 
-Future versions will include:
+As versões futuras incluirão:
 
-- Long-term memory
-- Portfolio recommendations
-- Watchlists
-- News analysis
-- Voice interaction
-- Multi-agent architecture
-
----
-
-# Performance
-
-The project was designed with performance as a priority.
-
-### Highlights
-
-- No frontend framework
-- No unnecessary dependencies
-- Lightweight assets
-- Fast loading
-- Modular architecture
-- Responsive interface
-- Serverless backend
-- Easy deployment
+- Memória de longo prazo
+- Recomendações para a carteira
+- Listas de acompanhamento (*watchlists*)
+- Análise de notícias
+- Interação por voz
+- Arquitetura multiagente
 
 ---
 
-# Security
+# Desempenho
 
-Current security features include:
+O projeto foi desenvolvido com foco em desempenho.
 
-- Secure API proxy
-- Hidden API keys
-- Local authentication
-- User session management
-- Input validation
-- Protected serverless endpoints
+### Destaques
 
-Future versions will include:
-
-- JWT Authentication
-- Database encryption
-- OAuth login
-- Two-Factor Authentication
-- Cloud database
+- Ausência de frameworks de front-end
+- Ausência de dependências desnecessárias
+- Recursos leves
+- Carregamento rápido
+- Arquitetura modular
+- Interface responsiva
+- Back-end serverless
+- Implantação simplificada
 
 ---
 
-# Roadmap
+# Segurança
 
-InvestX is under continuous development.
+Os recursos de segurança atuais incluem:
 
-The long-term goal is to evolve the platform into a complete **AI-powered investment ecosystem**.
+- Proxy para APIs
+- Chaves de API ocultas
+- Autenticação local
+- Gerenciamento de sessões de usuários
+- Validação de entradas
+- Endpoints serverless protegidos
 
-## Completed
+As versões futuras incluirão:
 
-- Responsive Landing Page
-- Authentication System
-- Portfolio Dashboard
-- Trading Simulator
-- Real-Time Market Data
-- Omega AI Integration
-- Technical Analysis
-- Fundamental Analysis
-- Investment Alerts
-- Serverless Deployment
-
----
-
-## In Progress
-
-- Backend Architecture
-- User Database
-- API Refactoring
-- Performance Optimization
-- Better State Management
-- Improved Mobile Experience
+- Autenticação JWT
+- Criptografia de banco de dados
+- Login OAuth
+- Autenticação de dois fatores
+- Banco de dados em nuvem
 
 ---
 
-## Planned Features
+# Roteiro de desenvolvimento
 
-### Authentication
+A InvestX está em desenvolvimento contínuo.
 
-- JWT Authentication
-- OAuth Login (Google / GitHub)
-- Two-Factor Authentication
+O objetivo de longo prazo é evoluir a plataforma para um **ecossistema completo de investimentos com inteligência artificial**.
 
-### Portfolio
+## Concluído
 
-- Persistent Cloud Portfolio
-- Portfolio Performance Reports
-- Dividend Tracking
-- Asset Allocation Analysis
+- Página inicial responsiva
+- Sistema de autenticação
+- Painel da carteira de investimentos
+- Simulador de operações
+- Dados de mercado em tempo real
+- Integração com a Omega AI
+- Análise técnica
+- Análise fundamentalista
+- Alertas de investimento
+- Implantação serverless
 
-### Trading
+---
 
-- Watchlists
-- Advanced Order Types
-- Risk Management Tools
-- Position Sizing Calculator
+## Em andamento
 
-### AI
+- Arquitetura de back-end
+- Banco de dados de usuários
+- Refatoração das APIs
+- Otimização de desempenho
+- Gerenciamento de estado aprimorado
+- Melhoria da experiência em dispositivos móveis
 
-- AI Portfolio Review
-- AI Risk Assessment
-- Investment Recommendations
-- News Summarization
-- Voice Assistant
-- Long-Term Memory
-- Multi-Agent Architecture
+---
 
-### Market
+## Funcionalidades planejadas
 
-- Official B3 API
-- Economic Calendar
-- Market News Feed
-- ETF Database
-- International Markets
+### Autenticação
+
+- Autenticação JWT
+- Login OAuth (Google / GitHub)
+- Autenticação de dois fatores
+
+### Carteira de investimentos
+
+- Carteira persistente na nuvem
+- Relatórios de desempenho da carteira
+- Acompanhamento de dividendos
+- Análise da alocação de ativos
+
+### Operações
+
+- Listas de acompanhamento (*watchlists*)
+- Tipos avançados de ordens
+- Ferramentas de gerenciamento de risco
+- Calculadora de dimensionamento de posição
+
+### Inteligência artificial
+
+- Avaliação da carteira por IA
+- Avaliação de risco por IA
+- Recomendações de investimento
+- Resumo de notícias
+- Assistente por voz
+- Memória de longo prazo
+- Arquitetura multiagente
+
+### Mercado
+
+- API oficial da B3
+- Calendário econômico
+- Feed de notícias do mercado
+- Base de dados de ETFs
+- Mercados internacionais
 - Commodities
-- Forex
+- Câmbio (*Forex*)
 
-### Infrastructure
+### Infraestrutura
 
-- Node.js Backend
-- PostgreSQL Database
-- Docker Support
-- CI/CD Pipeline
-- Automated Testing
-- Monitoring
-- Logging
-
----
-
-# Project Vision
-
-InvestX is much more than a dashboard.
-
-The vision is to build an intelligent financial platform capable of assisting investors throughout their entire investment journey.
-
-The platform is being designed with scalability in mind, allowing future integration with cloud databases, authentication providers, AI services, broker APIs, and advanced portfolio analytics.
-
-Every feature added today is planned with the future Full-Stack architecture in mind.
+- Back-end com Node.js
+- Banco de dados PostgreSQL
+- Suporte ao Docker
+- Pipeline de CI/CD
+- Testes automatizados
+- Monitoramento
+- Registro de eventos (*logging*)
 
 ---
 
-# Why Vanilla JavaScript?
+# Visão do projeto
 
-Instead of relying on frontend frameworks, InvestX was intentionally developed using **Vanilla JavaScript**.
+A InvestX é muito mais do que um painel de investimentos.
 
-This decision highlights:
+A visão é construir uma plataforma financeira inteligente capaz de auxiliar investidores durante toda a sua jornada de investimentos.
 
-- Strong JavaScript fundamentals
-- Modular architecture
-- Performance optimization
-- Deep understanding of browser APIs
-- Clean dependency management
+A plataforma está sendo projetada com foco em escalabilidade, permitindo futuras integrações com bancos de dados em nuvem, provedores de autenticação, serviços de IA, APIs de corretoras e ferramentas avançadas de análise de carteiras.
 
-The goal is to demonstrate that scalable applications can be built without unnecessary complexity while keeping the project easy to understand and maintain.
+Cada funcionalidade adicionada hoje é planejada considerando a futura arquitetura Full-Stack.
 
 ---
 
-# Contributing
+# Por que JavaScript puro?
 
-Contributions are always welcome.
+Em vez de depender de frameworks de front-end, a InvestX foi desenvolvida intencionalmente com **JavaScript puro** (*Vanilla JavaScript*).
 
-If you would like to improve InvestX, feel free to:
+Essa decisão evidencia:
 
-1. Fork the repository
-2. Create a feature branch
+- Domínio dos fundamentos de JavaScript
+- Arquitetura modular
+- Otimização de desempenho
+- Conhecimento aprofundado das APIs do navegador
+- Gerenciamento organizado de dependências
+
+O objetivo é demonstrar que aplicações escaláveis podem ser construídas sem complexidade desnecessária, mantendo o projeto fácil de compreender e manter.
+
+---
+
+# Como contribuir
+
+Contribuições são sempre bem-vindas.
+
+Se você quiser melhorar a InvestX, siga estas etapas:
+
+1. Crie um *fork* do repositório.
+2. Crie uma branch para a nova funcionalidade.
 
 ```bash
-git checkout -b feature/amazing-feature
+git checkout -b feature/funcionalidade-incrivel
 ```
 
-3. Commit your changes
+3. Faça o commit das alterações.
 
 ```bash
-git commit -m "feat: add amazing feature"
+git commit -m "feat: adiciona nova funcionalidade"
 ```
 
-4. Push your branch
+4. Envie sua branch para o repositório remoto.
 
 ```bash
-git push origin feature/amazing-feature
+git push origin feature/funcionalidade-incrivel
 ```
 
-5. Open a Pull Request
+5. Abra um *Pull Request*.
 
-Please make sure your code follows the existing project structure and coding style.
-
----
-
-# Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-It helps the project gain visibility and motivates future development.
+Certifique-se de que seu código siga a estrutura existente do projeto e o padrão de estilo adotado.
 
 ---
 
-# License
+# Suporte
 
-This project is distributed under the **MIT License**.
+Se este projeto foi útil para você, considere deixar uma estrela no GitHub.
 
-See the **LICENSE** file for more information.
+Isso ajuda a aumentar a visibilidade do projeto e incentiva seu desenvolvimento futuro.
 
 ---
 
-# Author
+# Licença
+
+Este projeto é distribuído sob a **Licença MIT**.
+
+Consulte o arquivo **LICENSE** para obter mais informações.
+
+---
+
+# Autor
 
 <div align="center">
 
 ## Rafael Sanguini Colagrossi
 
-Software Developer passionate about Artificial Intelligence, Financial Technology and Full-Stack Development.
+Desenvolvedor de software apaixonado por Inteligência Artificial, Tecnologia Financeira e Desenvolvimento Full-Stack.
 
-Building modern software focused on performance, clean architecture and great user experience.
+Criando softwares modernos com foco em desempenho, arquitetura limpa e excelente experiência do usuário.
 
 <br>
 
@@ -771,7 +756,7 @@ Building modern software focused on performance, clean architecture and great us
 </a>
 
 <a href="mailto:rafaelcolagrossi@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -782,10 +767,10 @@ Building modern software focused on performance, clean architecture and great us
 
 ## InvestX
 
-### AI-Powered Investing for Everyone.
+### Investimentos inteligentes com IA para todos.
 
-Building the future of intelligent investing, one commit at a time.
+Construindo o futuro dos investimentos inteligentes, um commit de cada vez.
 
-⭐ **If you like this project, don't forget to star the repository!**
+**Se você gostou deste projeto, não se esqueça de deixar uma estrela no repositório!**
 
 </div>

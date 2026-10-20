@@ -8,7 +8,7 @@ Dados de mercado em tempo real • Análise financeira com IA • Gestão de car
 
 <p align="center">
 
-<a href="https://investx-black.vercel.app">
+<a href="https://invest-x-black.vercel.app">
 <img src="https://img.shields.io/badge/Demo_Ao_Vivo-Visitar_Site-red?style=for-the-badge">
 </a>
 
